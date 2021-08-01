@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745732664629",
+    "project_id": "todolistbymab",
+    "storage_bucket": "todolistbymab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745732664629:android:2a7d5bb982ae1c3e73707c",
+        "android_client_info": {
+          "package_name": "com.mab_todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745732664629-d1c20m8v8ve4g7agtk9cs7o3a7lo2l0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWWSKEnav35anubsMiNNR5vPjPhhHsZ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745732664629-d1c20m8v8ve4g7agtk9cs7o3a7lo2l0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
